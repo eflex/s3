@@ -36,6 +36,6 @@
 
 
   //note:
-    for more information check
-      https://github.com/LearnBoost/knox
+ // for more information check
+ //    https://github.com/LearnBoost/knox
 ```
