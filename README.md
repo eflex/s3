@@ -21,10 +21,10 @@
 
   var result = yield s3.delete(location)
 
-  // success:
+/*  success:
   .statusCode == 200
 
-  // If successful, will return body, containing Location, Bucket, Key, ETag and size of the object
+  If successful, will return body, containing Location, Bucket, Key, ETag and size of the object
                 
     {
         Location: 'http://Example-Bucket.s3.amazonaws.com/destination.txt',
@@ -35,7 +35,8 @@
     }
 
 
-  //note:
- // for more information check
- //    https://github.com/LearnBoost/knox
+  note:
+  for more information check
+  https://github.com/LearnBoost/knox
+ */
 ```
